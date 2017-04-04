@@ -3,6 +3,6 @@ The site is hosted on a digital ocean droplet that I set up as practice with ser
 
 The server runs Ubuntu 16.04.02 and serves webpages using Nginx.
 
-Serves as my personal website with my portfolio, resume, and blog.
+This site serves as my personal website with my portfolio, resume, and blog.
 
-Continuous integration for the site is powered by a simple ruby script on the server that responds to a GitHub webhook.
+Continuous integration for the site is powered by a simple sinatra app on the server that responds to a GitHub webhook.
