@@ -5,4 +5,4 @@ The server runs Ubuntu 16.04.02 and serves webpages using Nginx.
 
 This site serves as my personal website with my portfolio, resume, and blog.
 
-Continuous integration for the site is powered by a simple Sinatra app deployed by Unicorn on the server that responds to a GitHub webhook.
+Continuous integration for the site is powered by a simple Sinatra app that responds to a GitHub webhook.
