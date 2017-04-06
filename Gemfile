@@ -1,5 +1,5 @@
 source "https://rubygems.org"
-ruby RUBY_VERSION
+ruby 2.3.0
 
 gem 'sinatra', '~> 1.3.5'
 gem 'json', ' ~> 1.8'
