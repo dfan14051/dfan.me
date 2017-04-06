@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: David Fan
 email: dmf98@case.edu
-description: Personal and professional site/blog for a Case Western Reserve University Computer Science major.
+description: Personal site/blog for a Case Western Reserve University Computer Science major and aspiring hacker.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://dfan.me" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: real_David_Fan
