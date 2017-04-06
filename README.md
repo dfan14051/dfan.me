@@ -7,4 +7,4 @@ This site serves as my personal website with my portfolio, resume, and blog.
 
 Continuous integration for the site is powered by a simple Sinatra app that responds to a GitHub webhook.
 
-Site powered by Jekyll
+Site powered by Jekyll.
