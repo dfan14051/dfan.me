@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: David Fan
 email: dmf98@case.edu
-description: My personal/professional website/blog. Take a look at what I've done or what I have to say.
+description: My personal & professional website/portfolio/blog. Take a look at what I've done or what I have to say if you'd like.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://dfan.me" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: real_David_Fan
