@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: single
 title:  "Welcome to Jekyll!"
+author_profile: true
 date:   2017-04-05 12:03:42 -0400
 categories: jekyll update
 ---
