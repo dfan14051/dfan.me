@@ -2,157 +2,693 @@
 Thin web server (v1.7.0 codename Dunder Mifflin)
 Maximum connections set to 1024
 Listening on 0.0.0.0:4567, CTRL+C to stop
-
+Unstaged changes after reset:
+M	nohup.out
 From github.com:dfan14051/dfan.me
-   5867e88..ba1d074  master     -> origin/master
+   840140b..869d2cb  master     -> origin/master
 Pushing files to distribution
-Your branch is up-to-date with 'origin/master'.
-127.0.0.1 - - [04/Apr/2017:19:40:08 -0400] "POST /payload HTTP/1.0" 200 - 0.6126
-Updating 5867e88..ba1d074
+Cloning into '/home/dmf98/tmp/dfan.me'...
+done.
+Configuration file: /home/dmf98/tmp/dfan.me/_config.yml
+            Source: /home/dmf98/tmp/dfan.me
+       Destination: /var/www/dfan.me
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.438 seconds.
+ Auto-regeneration: disabled. Use --watch to enable.
+127.0.0.1 - - [05/Apr/2017:23:01:06 -0400] "POST /payload HTTP/1.0" 200 - 1.7096
+Updating 840140b..869d2cb
 Fast-forward
- html/index.html | 3 +++
- 1 file changed, 3 insertions(+)
-
+ _config.yml | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+Unstaged changes after reset:
+M	nohup.out
 From github.com:dfan14051/dfan.me
-   ba1d074..77253eb  master     -> origin/master
+   869d2cb..7b94f3b  master     -> origin/master
 Pushing files to distribution
-Your branch is up-to-date with 'origin/master'.
-127.0.0.1 - - [04/Apr/2017:19:46:01 -0400] "POST /payload HTTP/1.0" 200 - 0.9683
-127.0.0.1 - - [05/Apr/2017:11:12:55 -0400] "GET /payload HTTP/1.0" 404 443 0.0048
-Updating ba1d074..77253eb
+Cloning into '/home/dmf98/tmp/dfan.me'...
+done.
+Configuration file: /home/dmf98/tmp/dfan.me/_config.yml
+            Source: /home/dmf98/tmp/dfan.me
+       Destination: /var/www/dfan.me
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.424 seconds.
+ Auto-regeneration: disabled. Use --watch to enable.
+127.0.0.1 - - [05/Apr/2017:23:06:23 -0400] "POST /payload HTTP/1.0" 200 - 1.5841
+Updating 869d2cb..7b94f3b
 Fast-forward
- html/index.html | 4 +---
- 1 file changed, 1 insertion(+), 3 deletions(-)
-== Sinatra (v1.4.8) has taken the stage on 4567 for development with backup from Thin
-Thin web server (v1.7.0 codename Dunder Mifflin)
-Maximum connections set to 1024
-Listening on localhost:4567, CTRL+C to stop
+ _config.yml | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
 Unstaged changes after reset:
 M	nohup.out
-Warning: Permanently added the RSA host key for IP address '192.30.253.113' to the list of known hosts.
-Permission denied (publickey).
-fatal: Could not read from remote repository.
-
-Please make sure you have the correct access rights
-and the repository exists.
-127.0.0.1 - - [05/Apr/2017:11:23:15 -0400] "POST /payload HTTP/1.0" 200 - 0.1573
-
+From github.com:dfan14051/dfan.me
+   7b94f3b..fb046ef  master     -> origin/master
+Pushing files to distribution
+Cloning into '/home/dmf98/tmp/dfan.me'...
+done.
+Configuration file: /home/dmf98/tmp/dfan.me/_config.yml
+            Source: /home/dmf98/tmp/dfan.me
+       Destination: /var/www/dfan.me
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.405 seconds.
+ Auto-regeneration: disabled. Use --watch to enable.
+127.0.0.1 - - [05/Apr/2017:23:07:29 -0400] "POST /payload HTTP/1.0" 200 - 1.4637
+Updating 7b94f3b..fb046ef
+Fast-forward
+ _config.yml | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
 Unstaged changes after reset:
 M	nohup.out
-Permission denied (publickey).
-fatal: Could not read from remote repository.
-
-Please make sure you have the correct access rights
-and the repository exists.
-127.0.0.1 - - [05/Apr/2017:20:27:35 -0400] "POST /payload HTTP/1.0" 200 - 0.1552
-
+From github.com:dfan14051/dfan.me
+   fb046ef..de3e887  master     -> origin/master
+Pushing files to distribution
+Cloning into '/home/dmf98/tmp/dfan.me'...
+done.
+/home/dmf98/.rvm/gems/ruby-2.3.3/gems/bundler-1.14.6/lib/bundler/spec_set.rb:87:in `block in materialize': Could not find i18n-0.8.1 in any of the sources (Bundler::GemNotFound)
+	from /home/dmf98/.rvm/gems/ruby-2.3.3/gems/bundler-1.14.6/lib/bundler/spec_set.rb:80:in `map!'
+	from /home/dmf98/.rvm/gems/ruby-2.3.3/gems/bundler-1.14.6/lib/bundler/spec_set.rb:80:in `materialize'
+	from /home/dmf98/.rvm/gems/ruby-2.3.3/gems/bundler-1.14.6/lib/bundler/definition.rb:176:in `specs'
+	from /home/dmf98/.rvm/gems/ruby-2.3.3/gems/bundler-1.14.6/lib/bundler/definition.rb:235:in `specs_for'
+	from /home/dmf98/.rvm/gems/ruby-2.3.3/gems/bundler-1.14.6/lib/bundler/definition.rb:224:in `requested_specs'
+	from /home/dmf98/.rvm/gems/ruby-2.3.3/gems/bundler-1.14.6/lib/bundler/runtime.rb:118:in `block in definition_method'
+	from /home/dmf98/.rvm/gems/ruby-2.3.3/gems/bundler-1.14.6/lib/bundler/runtime.rb:19:in `setup'
+	from /home/dmf98/.rvm/gems/ruby-2.3.3/gems/bundler-1.14.6/lib/bundler.rb:100:in `setup'
+	from /home/dmf98/.rvm/gems/ruby-2.3.3/gems/jekyll-3.4.3/lib/jekyll/plugin_manager.rb:36:in `require_from_bundler'
+	from /home/dmf98/.rvm/gems/ruby-2.3.3/gems/jekyll-3.4.3/exe/jekyll:9:in `<top (required)>'
+	from /home/dmf98/.rvm/gems/ruby-2.3.3/bin/jekyll:22:in `load'
+	from /home/dmf98/.rvm/gems/ruby-2.3.3/bin/jekyll:22:in `<main>'
+	from /home/dmf98/.rvm/gems/ruby-2.3.3/bin/ruby_executable_hooks:15:in `eval'
+	from /home/dmf98/.rvm/gems/ruby-2.3.3/bin/ruby_executable_hooks:15:in `<main>'
+127.0.0.1 - - [11/Apr/2017:15:00:18 -0400] "POST /payload HTTP/1.0" 200 - 2.9467
+Updating fb046ef..de3e887
+Fast-forward
+ Gemfile      |  3 ++-
+ Gemfile.lock | 43 +++++++++++++++++++++++++++++++++++++++++++
+ _config.yml  |  2 +-
+ 3 files changed, 46 insertions(+), 2 deletions(-)
 Unstaged changes after reset:
-M	Gemfile.lock
 M	nohup.out
-Permission denied (publickey).
-fatal: Could not read from remote repository.
-
-Please make sure you have the correct access rights
-and the repository exists.
-127.0.0.1 - - [05/Apr/2017:21:56:09 -0400] "POST /payload HTTP/1.0" 200 - 0.1471
-
+From github.com:dfan14051/dfan.me
+   de3e887..a29ec6c  master     -> origin/master
+Pushing files to distribution
+Cloning into '/home/dmf98/tmp/dfan.me'...
+done.
+/home/dmf98/.rvm/gems/ruby-2.3.3/gems/bundler-1.14.6/lib/bundler/spec_set.rb:87:in `block in materialize': Could not find i18n-0.8.1 in any of the sources (Bundler::GemNotFound)
+	from /home/dmf98/.rvm/gems/ruby-2.3.3/gems/bundler-1.14.6/lib/bundler/spec_set.rb:80:in `map!'
+	from /home/dmf98/.rvm/gems/ruby-2.3.3/gems/bundler-1.14.6/lib/bundler/spec_set.rb:80:in `materialize'
+	from /home/dmf98/.rvm/gems/ruby-2.3.3/gems/bundler-1.14.6/lib/bundler/definition.rb:176:in `specs'
+	from /home/dmf98/.rvm/gems/ruby-2.3.3/gems/bundler-1.14.6/lib/bundler/definition.rb:235:in `specs_for'
+	from /home/dmf98/.rvm/gems/ruby-2.3.3/gems/bundler-1.14.6/lib/bundler/definition.rb:224:in `requested_specs'
+	from /home/dmf98/.rvm/gems/ruby-2.3.3/gems/bundler-1.14.6/lib/bundler/runtime.rb:118:in `block in definition_method'
+	from /home/dmf98/.rvm/gems/ruby-2.3.3/gems/bundler-1.14.6/lib/bundler/runtime.rb:19:in `setup'
+	from /home/dmf98/.rvm/gems/ruby-2.3.3/gems/bundler-1.14.6/lib/bundler.rb:100:in `setup'
+	from /home/dmf98/.rvm/gems/ruby-2.3.3/gems/jekyll-3.4.3/lib/jekyll/plugin_manager.rb:36:in `require_from_bundler'
+	from /home/dmf98/.rvm/gems/ruby-2.3.3/gems/jekyll-3.4.3/exe/jekyll:9:in `<top (required)>'
+	from /home/dmf98/.rvm/gems/ruby-2.3.3/bin/jekyll:22:in `load'
+	from /home/dmf98/.rvm/gems/ruby-2.3.3/bin/jekyll:22:in `<main>'
+	from /home/dmf98/.rvm/gems/ruby-2.3.3/bin/ruby_executable_hooks:15:in `eval'
+	from /home/dmf98/.rvm/gems/ruby-2.3.3/bin/ruby_executable_hooks:15:in `<main>'
+127.0.0.1 - - [11/Apr/2017:15:11:50 -0400] "POST /payload HTTP/1.0" 200 - 1.1629
+Updating de3e887..a29ec6c
+Fast-forward
+ Gemfile | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
 Unstaged changes after reset:
-M	Gemfile.lock
 M	nohup.out
-Permission denied (publickey).
-fatal: Could not read from remote repository.
-
-Please make sure you have the correct access rights
-and the repository exists.
-127.0.0.1 - - [05/Apr/2017:21:59:26 -0400] "POST /payload HTTP/1.0" 200 - 0.1507
-
+From github.com:dfan14051/dfan.me
+   a29ec6c..16f409c  master     -> origin/master
+Pushing files to distribution
+Cloning into '/home/dmf98/tmp/dfan.me'...
+done.
+/home/dmf98/.rvm/gems/ruby-2.3.3/gems/bundler-1.14.6/lib/bundler/spec_set.rb:87:in `block in materialize': Could not find i18n-0.8.1 in any of the sources (Bundler::GemNotFound)
+	from /home/dmf98/.rvm/gems/ruby-2.3.3/gems/bundler-1.14.6/lib/bundler/spec_set.rb:80:in `map!'
+	from /home/dmf98/.rvm/gems/ruby-2.3.3/gems/bundler-1.14.6/lib/bundler/spec_set.rb:80:in `materialize'
+	from /home/dmf98/.rvm/gems/ruby-2.3.3/gems/bundler-1.14.6/lib/bundler/definition.rb:176:in `specs'
+	from /home/dmf98/.rvm/gems/ruby-2.3.3/gems/bundler-1.14.6/lib/bundler/definition.rb:235:in `specs_for'
+	from /home/dmf98/.rvm/gems/ruby-2.3.3/gems/bundler-1.14.6/lib/bundler/definition.rb:224:in `requested_specs'
+	from /home/dmf98/.rvm/gems/ruby-2.3.3/gems/bundler-1.14.6/lib/bundler/runtime.rb:118:in `block in definition_method'
+	from /home/dmf98/.rvm/gems/ruby-2.3.3/gems/bundler-1.14.6/lib/bundler/runtime.rb:19:in `setup'
+	from /home/dmf98/.rvm/gems/ruby-2.3.3/gems/bundler-1.14.6/lib/bundler.rb:100:in `setup'
+	from /home/dmf98/.rvm/gems/ruby-2.3.3/gems/jekyll-3.4.3/lib/jekyll/plugin_manager.rb:36:in `require_from_bundler'
+	from /home/dmf98/.rvm/gems/ruby-2.3.3/gems/jekyll-3.4.3/exe/jekyll:9:in `<top (required)>'
+	from /home/dmf98/.rvm/gems/ruby-2.3.3/bin/jekyll:22:in `load'
+	from /home/dmf98/.rvm/gems/ruby-2.3.3/bin/jekyll:22:in `<main>'
+	from /home/dmf98/.rvm/gems/ruby-2.3.3/bin/ruby_executable_hooks:15:in `eval'
+	from /home/dmf98/.rvm/gems/ruby-2.3.3/bin/ruby_executable_hooks:15:in `<main>'
+127.0.0.1 - - [11/Apr/2017:16:19:25 -0400] "POST /payload HTTP/1.0" 200 - 1.3058
+Updating a29ec6c..16f409c
+Fast-forward
+ _includes/icon-github.html                   | 1 +
+ _includes/icon-github.svg                    | 1 +
+ _includes/icon-twitter.html                  | 1 +
+ _includes/icon-twitter.svg                   | 1 +
+ _posts/2017-04-05-welcome-to-jekyll.markdown | 3 ++-
+ 5 files changed, 6 insertions(+), 1 deletion(-)
+ create mode 100644 _includes/icon-github.html
+ create mode 100644 _includes/icon-github.svg
+ create mode 100644 _includes/icon-twitter.html
+ create mode 100644 _includes/icon-twitter.svg
 Unstaged changes after reset:
-M	Gemfile.lock
 M	nohup.out
-Permission denied (publickey).
-fatal: Could not read from remote repository.
-
-Please make sure you have the correct access rights
-and the repository exists.
-127.0.0.1 - - [05/Apr/2017:22:00:18 -0400] "POST /payload HTTP/1.0" 200 - 0.1445
-
+From github.com:dfan14051/dfan.me
+   16f409c..b94e06e  master     -> origin/master
+Pushing files to distribution
+Using i18n 0.8.1
+Using minitest 5.10.1
+Using thread_safe 0.3.6
+Using public_suffix 2.0.5
+Using colorator 1.1.0
+Using multipart-post 2.0.0
+Using ffi 1.9.18
+Using forwardable-extended 2.6.0
+Using gemoji 3.0.0
+Using mini_portile2 2.1.0
+Using sass 3.4.23
+Using rb-fsevent 0.9.8
+Using kramdown 1.13.2
+Using liquid 3.0.6
+Using mercenary 0.3.6
+Using rouge 1.11.1
+Using safe_yaml 1.0.4
+Using jekyll-paginate 1.1.0
+Using json 1.8.6
+Using rack 1.6.5
+Using tilt 1.4.1
+Using bundler 1.14.6
+Using tzinfo 1.2.3
+Using addressable 2.5.1
+Using faraday 0.12.0.1
+Using rb-inotify 0.9.8
+Using pathutil 0.14.0
+Using nokogiri 1.7.1
+Using jekyll-sass-converter 1.5.0
+Using rack-protection 1.5.3
+Using activesupport 4.2.8
+Using sawyer 0.8.1
+Using listen 3.0.8
+Using sinatra 1.3.6
+Using html-pipeline 2.5.0
+Using octokit 4.7.0
+Using jekyll-watch 1.5.0
+Using jekyll-gist 1.4.0
+Using jekyll 3.4.3
+Using jekyll-feed 0.9.2
+Using jekyll-sitemap 1.1.0
+Using jemoji 0.8.0
+Using minima 2.1.0
+Using minimal-mistakes-jekyll 4.3.1
+Bundle complete! 7 Gemfile dependencies, 44 gems now installed.
+Use `bundle show [gemname]` to see where a bundled gem is installed.
+Cloning into '/home/dmf98/tmp/dfan.me'...
+done.
+Configuration file: /home/dmf98/tmp/dfan.me/_config.yml
+            Source: /home/dmf98/tmp/dfan.me
+       Destination: /var/www/dfan.me
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+[33m     Build Warning: Layout 'page' requested in about.md does not exist.[0m
+                    done in 11.822 seconds.
+ Auto-regeneration: disabled. Use --watch to enable.
+127.0.0.1 - - [11/Apr/2017:16:27:21 -0400] "POST /payload HTTP/1.0" 200 - 14.1778
+Updating 16f409c..b94e06e
+Fast-forward
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
 Unstaged changes after reset:
-M	Gemfile.lock
 M	nohup.out
-Permission denied (publickey).
-fatal: Could not read from remote repository.
-
-Please make sure you have the correct access rights
-and the repository exists.
-127.0.0.1 - - [05/Apr/2017:22:02:22 -0400] "POST /payload HTTP/1.0" 200 - 0.1482
-
+From github.com:dfan14051/dfan.me
+   b94e06e..206a376  master     -> origin/master
+Pushing files to distribution
+Using i18n 0.8.1
+Using minitest 5.10.1
+Using thread_safe 0.3.6
+Using public_suffix 2.0.5
+Using colorator 1.1.0
+Using multipart-post 2.0.0
+Using ffi 1.9.18
+Using forwardable-extended 2.6.0
+Using gemoji 3.0.0
+Using mini_portile2 2.1.0
+Using sass 3.4.23
+Using rb-fsevent 0.9.8
+Using kramdown 1.13.2
+Using liquid 3.0.6
+Using mercenary 0.3.6
+Using rouge 1.11.1
+Using safe_yaml 1.0.4
+Using jekyll-paginate 1.1.0
+Using json 1.8.6
+Using rack 1.6.5
+Using tilt 1.4.1
+Using bundler 1.14.6
+Using tzinfo 1.2.3
+Using addressable 2.5.1
+Using faraday 0.12.0.1
+Using rb-inotify 0.9.8
+Using pathutil 0.14.0
+Using nokogiri 1.7.1
+Using jekyll-sass-converter 1.5.0
+Using rack-protection 1.5.3
+Using activesupport 4.2.8
+Using sawyer 0.8.1
+Using listen 3.0.8
+Using sinatra 1.3.6
+Using html-pipeline 2.5.0
+Using octokit 4.7.0
+Using jekyll-watch 1.5.0
+Using jekyll-gist 1.4.0
+Using jekyll 3.4.3
+Using jekyll-feed 0.9.2
+Using jekyll-sitemap 1.1.0
+Using jemoji 0.8.0
+Using minima 2.1.0
+Using minimal-mistakes-jekyll 4.3.1
+Bundle complete! 7 Gemfile dependencies, 44 gems now installed.
+Use `bundle show [gemname]` to see where a bundled gem is installed.
+Cloning into '/home/dmf98/tmp/dfan.me'...
+done.
+Configuration file: /home/dmf98/tmp/dfan.me/_config.yml
+            Source: /home/dmf98/tmp/dfan.me
+       Destination: /var/www/dfan.me
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+[33mError reading file /home/dmf98/dfan.me/_layouts/single.html: No such file or directory @ rb_sysopen - /home/dmf98/tmp/dfan.me/home/dmf98/dfan.me/_layouts/single.html [0m
+[33mError reading file /home/dmf98/dfan.me/_layouts/home.html: No such file or directory @ rb_sysopen - /home/dmf98/tmp/dfan.me/home/dmf98/dfan.me/_layouts/home.html [0m
+[33mError reading file /home/dmf98/dfan.me/_layouts/archive.html: No such file or directory @ rb_sysopen - /home/dmf98/tmp/dfan.me/home/dmf98/dfan.me/_layouts/archive.html [0m
+[33mError reading file /home/dmf98/dfan.me/_layouts/splash.html: No such file or directory @ rb_sysopen - /home/dmf98/tmp/dfan.me/home/dmf98/dfan.me/_layouts/splash.html [0m
+[33mError reading file /home/dmf98/dfan.me/_layouts/archive-taxonomy.html: No such file or directory @ rb_sysopen - /home/dmf98/tmp/dfan.me/home/dmf98/dfan.me/_layouts/archive-taxonomy.html [0m
+[33mError reading file /home/dmf98/dfan.me/_layouts/default.html: No such file or directory @ rb_sysopen - /home/dmf98/tmp/dfan.me/home/dmf98/dfan.me/_layouts/default.html [0m
+[33mError reading file /home/dmf98/dfan.me/_layouts/compress.html: No such file or directory @ rb_sysopen - /home/dmf98/tmp/dfan.me/home/dmf98/dfan.me/_layouts/compress.html [0m
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+[33m     Build Warning: Layout 'page' requested in about.md does not exist.[0m
+                    done in 6.437 seconds.
+ Auto-regeneration: disabled. Use --watch to enable.
+127.0.0.1 - - [12/Apr/2017:02:10:53 -0400] "POST /payload HTTP/1.0" 200 - 9.8033
+Updating b94e06e..206a376
+Fast-forward
+ _config.yml                    | 269 ++++++++++++++++++++++++++++++++++++-----
+ _layouts/archive-taxonomy.html |  15 +++
+ _layouts/archive.html          |  26 ++++
+ _layouts/compress.html         |  10 ++
+ _layouts/default.html          |  34 ++++++
+ _layouts/home.html             |  11 ++
+ _layouts/single.html           |  74 ++++++++++++
+ _layouts/splash.html           |  22 ++++
+ google171462b3176c3182.html    |   1 +
+ 9 files changed, 434 insertions(+), 28 deletions(-)
+ create mode 100644 _layouts/archive-taxonomy.html
+ create mode 100644 _layouts/archive.html
+ create mode 100644 _layouts/compress.html
+ create mode 100644 _layouts/default.html
+ create mode 100644 _layouts/home.html
+ create mode 100644 _layouts/single.html
+ create mode 100644 _layouts/splash.html
+ create mode 100644 google171462b3176c3182.html
 Unstaged changes after reset:
-M	Gemfile.lock
 M	nohup.out
-Permission denied (publickey).
-fatal: Could not read from remote repository.
-
-Please make sure you have the correct access rights
-and the repository exists.
-127.0.0.1 - - [05/Apr/2017:22:05:17 -0400] "POST /payload HTTP/1.0" 200 - 0.1442
-
+From github.com:dfan14051/dfan.me
+   206a376..d40b74e  master     -> origin/master
+Pushing files to distribution
+Using i18n 0.8.1
+Using minitest 5.10.1
+Using thread_safe 0.3.6
+Using public_suffix 2.0.5
+Using colorator 1.1.0
+Using multipart-post 2.0.0
+Using ffi 1.9.18
+Using forwardable-extended 2.6.0
+Using gemoji 3.0.0
+Using mini_portile2 2.1.0
+Using sass 3.4.23
+Using rb-fsevent 0.9.8
+Using kramdown 1.13.2
+Using liquid 3.0.6
+Using mercenary 0.3.6
+Using rouge 1.11.1
+Using safe_yaml 1.0.4
+Using jekyll-paginate 1.1.0
+Using json 1.8.6
+Using rack 1.6.5
+Using tilt 1.4.1
+Using bundler 1.14.6
+Using tzinfo 1.2.3
+Using addressable 2.5.1
+Using faraday 0.12.0.1
+Using rb-inotify 0.9.8
+Using pathutil 0.14.0
+Using nokogiri 1.7.1
+Using jekyll-sass-converter 1.5.0
+Using rack-protection 1.5.3
+Using activesupport 4.2.8
+Using sawyer 0.8.1
+Using listen 3.0.8
+Using sinatra 1.3.6
+Using html-pipeline 2.5.0
+Using octokit 4.7.0
+Using jekyll-watch 1.5.0
+Using jekyll-gist 1.4.0
+Using jekyll 3.4.3
+Using jekyll-feed 0.9.2
+Using jekyll-sitemap 1.1.0
+Using jemoji 0.8.0
+Using minima 2.1.0
+Using minimal-mistakes-jekyll 4.3.1
+Bundle complete! 7 Gemfile dependencies, 44 gems now installed.
+Use `bundle show [gemname]` to see where a bundled gem is installed.
+Cloning into '/home/dmf98/tmp/dfan.me'...
+done.
+Configuration file: /home/dmf98/tmp/dfan.me/_config.yml
+            Source: /home/dmf98/tmp/dfan.me
+       Destination: /var/www/dfan.me
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+[33mError reading file /home/dmf98/dfan.me/_layouts/single.html: No such file or directory @ rb_sysopen - /home/dmf98/tmp/dfan.me/home/dmf98/dfan.me/_layouts/single.html [0m
+[33mError reading file /home/dmf98/dfan.me/_layouts/home.html: No such file or directory @ rb_sysopen - /home/dmf98/tmp/dfan.me/home/dmf98/dfan.me/_layouts/home.html [0m
+[33mError reading file /home/dmf98/dfan.me/_layouts/archive.html: No such file or directory @ rb_sysopen - /home/dmf98/tmp/dfan.me/home/dmf98/dfan.me/_layouts/archive.html [0m
+[33mError reading file /home/dmf98/dfan.me/_layouts/splash.html: No such file or directory @ rb_sysopen - /home/dmf98/tmp/dfan.me/home/dmf98/dfan.me/_layouts/splash.html [0m
+[33mError reading file /home/dmf98/dfan.me/_layouts/archive-taxonomy.html: No such file or directory @ rb_sysopen - /home/dmf98/tmp/dfan.me/home/dmf98/dfan.me/_layouts/archive-taxonomy.html [0m
+[33mError reading file /home/dmf98/dfan.me/_layouts/default.html: No such file or directory @ rb_sysopen - /home/dmf98/tmp/dfan.me/home/dmf98/dfan.me/_layouts/default.html [0m
+[33mError reading file /home/dmf98/dfan.me/_layouts/compress.html: No such file or directory @ rb_sysopen - /home/dmf98/tmp/dfan.me/home/dmf98/dfan.me/_layouts/compress.html [0m
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+[33m     Build Warning: Layout 'page' requested in about.md does not exist.[0m
+                    done in 6.181 seconds.
+ Auto-regeneration: disabled. Use --watch to enable.
+127.0.0.1 - - [12/Apr/2017:02:27:35 -0400] "POST /payload HTTP/1.0" 200 - 8.4505
+Updating 206a376..d40b74e
+Fast-forward
+ _config.yml          |  28 +--
+ _data/navigation.yml |  12 +
+ _data/ui-text.yml    | 626 +++++++++++++++++++++++++++++++++++++++++++++++++++
+ 3 files changed, 653 insertions(+), 13 deletions(-)
+ create mode 100644 _data/navigation.yml
+ create mode 100644 _data/ui-text.yml
 Unstaged changes after reset:
-M	Gemfile.lock
 M	nohup.out
-Permission denied (publickey).
-fatal: Could not read from remote repository.
-
-Please make sure you have the correct access rights
-and the repository exists.
-127.0.0.1 - - [05/Apr/2017:22:08:11 -0400] "POST /payload HTTP/1.0" 200 - 0.1479
-
+From github.com:dfan14051/dfan.me
+   d40b74e..261d37c  master     -> origin/master
+Pushing files to distribution
+Using i18n 0.8.1
+Using minitest 5.10.1
+Using thread_safe 0.3.6
+Using public_suffix 2.0.5
+Using colorator 1.1.0
+Using multipart-post 2.0.0
+Using ffi 1.9.18
+Using forwardable-extended 2.6.0
+Using gemoji 3.0.0
+Using mini_portile2 2.1.0
+Using sass 3.4.23
+Using rb-fsevent 0.9.8
+Using kramdown 1.13.2
+Using liquid 3.0.6
+Using mercenary 0.3.6
+Using rouge 1.11.1
+Using safe_yaml 1.0.4
+Using jekyll-paginate 1.1.0
+Using json 1.8.6
+Using rack 1.6.5
+Using tilt 1.4.1
+Using bundler 1.14.6
+Using tzinfo 1.2.3
+Using addressable 2.5.1
+Using faraday 0.12.0.1
+Using rb-inotify 0.9.8
+Using pathutil 0.14.0
+Using nokogiri 1.7.1
+Using jekyll-sass-converter 1.5.0
+Using rack-protection 1.5.3
+Using activesupport 4.2.8
+Using sawyer 0.8.1
+Using listen 3.0.8
+Using sinatra 1.3.6
+Using html-pipeline 2.5.0
+Using octokit 4.7.0
+Using jekyll-watch 1.5.0
+Using jekyll-gist 1.4.0
+Using jekyll 3.4.3
+Using jekyll-feed 0.9.2
+Using jekyll-sitemap 1.1.0
+Using jemoji 0.8.0
+Using minima 2.1.0
+Using minimal-mistakes-jekyll 4.3.1
+Bundle complete! 7 Gemfile dependencies, 44 gems now installed.
+Use `bundle show [gemname]` to see where a bundled gem is installed.
+Cloning into '/home/dmf98/tmp/dfan.me'...
+done.
+Configuration file: /home/dmf98/tmp/dfan.me/_config.yml
+            Source: /home/dmf98/tmp/dfan.me
+       Destination: /var/www/dfan.me
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+[33mError reading file /home/dmf98/dfan.me/_layouts/single.html: No such file or directory @ rb_sysopen - /home/dmf98/tmp/dfan.me/home/dmf98/dfan.me/_layouts/single.html [0m
+[33mError reading file /home/dmf98/dfan.me/_layouts/home.html: No such file or directory @ rb_sysopen - /home/dmf98/tmp/dfan.me/home/dmf98/dfan.me/_layouts/home.html [0m
+[33mError reading file /home/dmf98/dfan.me/_layouts/archive.html: No such file or directory @ rb_sysopen - /home/dmf98/tmp/dfan.me/home/dmf98/dfan.me/_layouts/archive.html [0m
+[33mError reading file /home/dmf98/dfan.me/_layouts/splash.html: No such file or directory @ rb_sysopen - /home/dmf98/tmp/dfan.me/home/dmf98/dfan.me/_layouts/splash.html [0m
+[33mError reading file /home/dmf98/dfan.me/_layouts/archive-taxonomy.html: No such file or directory @ rb_sysopen - /home/dmf98/tmp/dfan.me/home/dmf98/dfan.me/_layouts/archive-taxonomy.html [0m
+[33mError reading file /home/dmf98/dfan.me/_layouts/default.html: No such file or directory @ rb_sysopen - /home/dmf98/tmp/dfan.me/home/dmf98/dfan.me/_layouts/default.html [0m
+[33mError reading file /home/dmf98/dfan.me/_layouts/compress.html: No such file or directory @ rb_sysopen - /home/dmf98/tmp/dfan.me/home/dmf98/dfan.me/_layouts/compress.html [0m
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+[33m     Build Warning: Layout 'page' requested in _pages/about.md does not exist.[0m
+                    done in 6.313 seconds.
+ Auto-regeneration: disabled. Use --watch to enable.
+127.0.0.1 - - [12/Apr/2017:02:36:38 -0400] "POST /payload HTTP/1.0" 200 - 8.9122
+Updating d40b74e..261d37c
+Fast-forward
+ about.md => _pages/about.md                  | 0
+ _posts/2017-04-05-welcome-to-jekyll.markdown | 2 --
+ 2 files changed, 2 deletions(-)
+ rename about.md => _pages/about.md (100%)
 Unstaged changes after reset:
-M	Gemfile.lock
 M	nohup.out
-Permission denied (publickey).
-fatal: Could not read from remote repository.
-
-Please make sure you have the correct access rights
-and the repository exists.
-127.0.0.1 - - [05/Apr/2017:22:10:28 -0400] "POST /payload HTTP/1.0" 200 - 0.1495
-
+From github.com:dfan14051/dfan.me
+   261d37c..aba465d  master     -> origin/master
+Pushing files to distribution
+Using i18n 0.8.1
+Using minitest 5.10.1
+Using thread_safe 0.3.6
+Using public_suffix 2.0.5
+Using colorator 1.1.0
+Using multipart-post 2.0.0
+Using ffi 1.9.18
+Using forwardable-extended 2.6.0
+Using gemoji 3.0.0
+Using mini_portile2 2.1.0
+Using sass 3.4.23
+Using rb-fsevent 0.9.8
+Using kramdown 1.13.2
+Using liquid 3.0.6
+Using mercenary 0.3.6
+Using rouge 1.11.1
+Using safe_yaml 1.0.4
+Using jekyll-paginate 1.1.0
+Using json 1.8.6
+Using rack 1.6.5
+Using tilt 1.4.1
+Using bundler 1.14.6
+Using tzinfo 1.2.3
+Using addressable 2.5.1
+Using faraday 0.12.0.1
+Using rb-inotify 0.9.8
+Using pathutil 0.14.0
+Using nokogiri 1.7.1
+Using jekyll-sass-converter 1.5.0
+Using rack-protection 1.5.3
+Using activesupport 4.2.8
+Using sawyer 0.8.1
+Using listen 3.0.8
+Using sinatra 1.3.6
+Using html-pipeline 2.5.0
+Using octokit 4.7.0
+Using jekyll-watch 1.5.0
+Using jekyll-gist 1.4.0
+Using jekyll 3.4.3
+Using jekyll-feed 0.9.2
+Using jekyll-sitemap 1.1.0
+Using jemoji 0.8.0
+Using minima 2.1.0
+Using minimal-mistakes-jekyll 4.3.1
+Bundle complete! 7 Gemfile dependencies, 44 gems now installed.
+Use `bundle show [gemname]` to see where a bundled gem is installed.
+Cloning into '/home/dmf98/tmp/dfan.me'...
+done.
+Configuration file: /home/dmf98/tmp/dfan.me/_config.yml
+            Source: /home/dmf98/tmp/dfan.me
+       Destination: /var/www/dfan.me
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+[33mError reading file /home/dmf98/dfan.me/_layouts/single.html: No such file or directory @ rb_sysopen - /home/dmf98/tmp/dfan.me/home/dmf98/dfan.me/_layouts/single.html [0m
+[33mError reading file /home/dmf98/dfan.me/_layouts/home.html: No such file or directory @ rb_sysopen - /home/dmf98/tmp/dfan.me/home/dmf98/dfan.me/_layouts/home.html [0m
+[33mError reading file /home/dmf98/dfan.me/_layouts/archive.html: No such file or directory @ rb_sysopen - /home/dmf98/tmp/dfan.me/home/dmf98/dfan.me/_layouts/archive.html [0m
+[33mError reading file /home/dmf98/dfan.me/_layouts/splash.html: No such file or directory @ rb_sysopen - /home/dmf98/tmp/dfan.me/home/dmf98/dfan.me/_layouts/splash.html [0m
+[33mError reading file /home/dmf98/dfan.me/_layouts/archive-taxonomy.html: No such file or directory @ rb_sysopen - /home/dmf98/tmp/dfan.me/home/dmf98/dfan.me/_layouts/archive-taxonomy.html [0m
+[33mError reading file /home/dmf98/dfan.me/_layouts/default.html: No such file or directory @ rb_sysopen - /home/dmf98/tmp/dfan.me/home/dmf98/dfan.me/_layouts/default.html [0m
+[33mError reading file /home/dmf98/dfan.me/_layouts/compress.html: No such file or directory @ rb_sysopen - /home/dmf98/tmp/dfan.me/home/dmf98/dfan.me/_layouts/compress.html [0m
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+[33m     Build Warning: Layout 'page' requested in _pages/about.md does not exist.[0m
+                    done in 6.331 seconds.
+ Auto-regeneration: disabled. Use --watch to enable.
+127.0.0.1 - - [12/Apr/2017:02:38:51 -0400] "POST /payload HTTP/1.0" 200 - 8.5686
+Updating 261d37c..aba465d
+Fast-forward
+ _config.yml | 7 +++++++
+ 1 file changed, 7 insertions(+)
 Unstaged changes after reset:
-M	Gemfile.lock
 M	nohup.out
-Permission denied (publickey).
-fatal: Could not read from remote repository.
-
-Please make sure you have the correct access rights
-and the repository exists.
-127.0.0.1 - - [05/Apr/2017:22:11:23 -0400] "POST /payload HTTP/1.0" 200 - 0.1424
-
+From github.com:dfan14051/dfan.me
+   aba465d..1c8c938  master     -> origin/master
+Pushing files to distribution
+Using i18n 0.8.1
+Using minitest 5.10.1
+Using thread_safe 0.3.6
+Using public_suffix 2.0.5
+Using colorator 1.1.0
+Using multipart-post 2.0.0
+Using ffi 1.9.18
+Using forwardable-extended 2.6.0
+Using gemoji 3.0.0
+Using mini_portile2 2.1.0
+Using sass 3.4.23
+Using rb-fsevent 0.9.8
+Using kramdown 1.13.2
+Using liquid 3.0.6
+Using mercenary 0.3.6
+Using rouge 1.11.1
+Using safe_yaml 1.0.4
+Using jekyll-paginate 1.1.0
+Using json 1.8.6
+Using rack 1.6.5
+Using tilt 1.4.1
+Using bundler 1.14.6
+Using tzinfo 1.2.3
+Using addressable 2.5.1
+Using faraday 0.12.0.1
+Using rb-inotify 0.9.8
+Using pathutil 0.14.0
+Using nokogiri 1.7.1
+Using jekyll-sass-converter 1.5.0
+Using rack-protection 1.5.3
+Using activesupport 4.2.8
+Using sawyer 0.8.1
+Using listen 3.0.8
+Using sinatra 1.3.6
+Using html-pipeline 2.5.0
+Using octokit 4.7.0
+Using jekyll-watch 1.5.0
+Using jekyll-gist 1.4.0
+Using jekyll 3.4.3
+Using jekyll-feed 0.9.2
+Using jekyll-sitemap 1.1.0
+Using jemoji 0.8.0
+Using minima 2.1.0
+Using minimal-mistakes-jekyll 4.3.1
+Bundle complete! 7 Gemfile dependencies, 44 gems now installed.
+Use `bundle show [gemname]` to see where a bundled gem is installed.
+Cloning into '/home/dmf98/tmp/dfan.me'...
+done.
+Configuration file: /home/dmf98/tmp/dfan.me/_config.yml
+            Source: /home/dmf98/tmp/dfan.me
+       Destination: /var/www/dfan.me
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+[33mError reading file /home/dmf98/dfan.me/_layouts/single.html: No such file or directory @ rb_sysopen - /home/dmf98/tmp/dfan.me/home/dmf98/dfan.me/_layouts/single.html [0m
+[33mError reading file /home/dmf98/dfan.me/_layouts/home.html: No such file or directory @ rb_sysopen - /home/dmf98/tmp/dfan.me/home/dmf98/dfan.me/_layouts/home.html [0m
+[33mError reading file /home/dmf98/dfan.me/_layouts/archive.html: No such file or directory @ rb_sysopen - /home/dmf98/tmp/dfan.me/home/dmf98/dfan.me/_layouts/archive.html [0m
+[33mError reading file /home/dmf98/dfan.me/_layouts/splash.html: No such file or directory @ rb_sysopen - /home/dmf98/tmp/dfan.me/home/dmf98/dfan.me/_layouts/splash.html [0m
+[33mError reading file /home/dmf98/dfan.me/_layouts/archive-taxonomy.html: No such file or directory @ rb_sysopen - /home/dmf98/tmp/dfan.me/home/dmf98/dfan.me/_layouts/archive-taxonomy.html [0m
+[33mError reading file /home/dmf98/dfan.me/_layouts/default.html: No such file or directory @ rb_sysopen - /home/dmf98/tmp/dfan.me/home/dmf98/dfan.me/_layouts/default.html [0m
+[33mError reading file /home/dmf98/dfan.me/_layouts/compress.html: No such file or directory @ rb_sysopen - /home/dmf98/tmp/dfan.me/home/dmf98/dfan.me/_layouts/compress.html [0m
+[33m        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.[0m
+[33m     Build Warning: Layout 'page' requested in _pages/about.md does not exist.[0m
+                    done in 6.548 seconds.
+ Auto-regeneration: disabled. Use --watch to enable.
+127.0.0.1 - - [12/Apr/2017:02:39:41 -0400] "POST /payload HTTP/1.0" 200 - 8.8339
+Updating aba465d..1c8c938
+Fast-forward
+ index.md => _pages/index.md | 1 +
+ 1 file changed, 1 insertion(+)
+ rename index.md => _pages/index.md (94%)
 Unstaged changes after reset:
-M	Gemfile.lock
 M	nohup.out
-Permission denied (publickey).
-fatal: Could not read from remote repository.
-
-Please make sure you have the correct access rights
-and the repository exists.
-127.0.0.1 - - [05/Apr/2017:22:19:20 -0400] "POST /payload HTTP/1.0" 200 - 0.1644
-
+From github.com:dfan14051/dfan.me
+   1c8c938..05c1e08  master     -> origin/master
+Pushing files to distribution
+Using i18n 0.8.1
+Using minitest 5.10.1
+Using thread_safe 0.3.6
+Using public_suffix 2.0.5
+Using colorator 1.1.0
+Using multipart-post 2.0.0
+Using ffi 1.9.18
+Using forwardable-extended 2.6.0
+Using gemoji 3.0.0
+Using mini_portile2 2.1.0
+Using sass 3.4.23
+Using rb-fsevent 0.9.8
+Using kramdown 1.13.2
+Using liquid 3.0.6
+Using mercenary 0.3.6
+Using rouge 1.11.1
+Using safe_yaml 1.0.4
+Using jekyll-paginate 1.1.0
+Using json 1.8.6
+Using rack 1.6.5
+Using tilt 1.4.1
+Using bundler 1.14.6
+Using tzinfo 1.2.3
+Using addressable 2.5.1
+Using faraday 0.12.0.1
+Using rb-inotify 0.9.8
+Using pathutil 0.14.0
+Using nokogiri 1.7.1
+Using jekyll-sass-converter 1.5.0
+Using rack-protection 1.5.3
+Using activesupport 4.2.8
+Using sawyer 0.8.1
+Using listen 3.0.8
+Using sinatra 1.3.6
+Using html-pipeline 2.5.0
+Using octokit 4.7.0
+Using jekyll-watch 1.5.0
+Using jekyll-gist 1.4.0
+Using jekyll 3.4.3
+Using jekyll-feed 0.9.2
+Using jekyll-sitemap 1.1.0
+Using jemoji 0.8.0
+Using minima 2.1.0
+Using minimal-mistakes-jekyll 4.3.1
+Bundle complete! 7 Gemfile dependencies, 44 gems now installed.
+Use `bundle show [gemname]` to see where a bundled gem is installed.
+Cloning into '/home/dmf98/tmp/dfan.me'...
+done.
+Configuration file: /home/dmf98/tmp/dfan.me/_config.yml
+            Source: /home/dmf98/tmp/dfan.me
+       Destination: /var/www/dfan.me
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+[33mError reading file /home/dmf98/dfan.me/_layouts/single.html: No such file or directory @ rb_sysopen - /home/dmf98/tmp/dfan.me/home/dmf98/dfan.me/_layouts/single.html [0m
+[33mError reading file /home/dmf98/dfan.me/_layouts/home.html: No such file or directory @ rb_sysopen - /home/dmf98/tmp/dfan.me/home/dmf98/dfan.me/_layouts/home.html [0m
+[33mError reading file /home/dmf98/dfan.me/_layouts/archive.html: No such file or directory @ rb_sysopen - /home/dmf98/tmp/dfan.me/home/dmf98/dfan.me/_layouts/archive.html [0m
+[33mError reading file /home/dmf98/dfan.me/_layouts/splash.html: No such file or directory @ rb_sysopen - /home/dmf98/tmp/dfan.me/home/dmf98/dfan.me/_layouts/splash.html [0m
+[33mError reading file /home/dmf98/dfan.me/_layouts/archive-taxonomy.html: No such file or directory @ rb_sysopen - /home/dmf98/tmp/dfan.me/home/dmf98/dfan.me/_layouts/archive-taxonomy.html [0m
+[33mError reading file /home/dmf98/dfan.me/_layouts/default.html: No such file or directory @ rb_sysopen - /home/dmf98/tmp/dfan.me/home/dmf98/dfan.me/_layouts/default.html [0m
+[33mError reading file /home/dmf98/dfan.me/_layouts/compress.html: No such file or directory @ rb_sysopen - /home/dmf98/tmp/dfan.me/home/dmf98/dfan.me/_layouts/compress.html [0m
+                    done in 6.073 seconds.
+ Auto-regeneration: disabled. Use --watch to enable.
+127.0.0.1 - - [12/Apr/2017:03:19:05 -0400] "POST /payload HTTP/1.0" 200 - 8.2842
+Updating 1c8c938..05c1e08
+Fast-forward
+ _pages/about.md               | 1 -
+ _pages/index.md => index.html | 1 -
+ 2 files changed, 2 deletions(-)
+ rename _pages/index.md => index.html (94%)
 Unstaged changes after reset:
-M	Gemfile.lock
 M	nohup.out
-Permission denied (publickey).
-fatal: Could not read from remote repository.
-
-Please make sure you have the correct access rights
-and the repository exists.
-127.0.0.1 - - [05/Apr/2017:22:21:19 -0400] "POST /payload HTTP/1.0" 200 - 0.1831
-127.0.0.1 - - [05/Apr/2017:22:23:39 -0400] "GET /payload HTTP/1.0" 404 469 0.0085
-
-Unstaged changes after reset:
-M	Gemfile.lock
-M	nohup.out
-Permission denied (publickey).
-fatal: Could not read from remote repository.
-
-Please make sure you have the correct access rights
-and the repository exists.
-127.0.0.1 - - [05/Apr/2017:22:39:34 -0400] "POST /payload HTTP/1.0" 200 - 0.1674
+From github.com:dfan14051/dfan.me
+   05c1e08..f12341e  master     -> origin/master
+error: Your local changes to the following files would be overwritten by merge:
+	nohup.out
+Please, commit your changes or stash them before you can merge.
+Aborting
+127.0.0.1 - - [12/Apr/2017:03:23:36 -0400] "POST /payload HTTP/1.0" 200 - 0.4222
