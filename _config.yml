@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             :
-  avatar           : "/assets/images/bio-picture.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-picture.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Just a computer science and cognitive science student at Case Western Reserve University getting by. Lover of video games, Netflix, and all things tech. Oh, and my cat."
   location         : "Cleveland, Ohio"
   email            : "dmf98@case.edu"
