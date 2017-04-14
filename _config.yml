@@ -9,7 +9,7 @@
 # Site Settings
 locale                   : "en"
 title                    : "David Fan"
-title_separator          : "|"
+title_separator          : " | "
 name                     : ""
 description              : "My personal & professional website/portfolio/blog. Take a look at what I've done or what I have to say if you'd like."
 url                      : "http://dfan.me" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
