@@ -1,14 +1,10 @@
 ---
-title: About
+title: About Me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi. I'm David Fan, a computer science - cognitive science double major at Case Western Reserve University. I've been programming for as long as I can remember and I've probably been in love with technology even longer.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+This site mainly serves as my personal site/porfolio, but I'm also using it to jot down some thoughts now and then. I've heard being a social developer is a good thing or something like that, and I've never kept a blog/diary/journal before so I'm giving it a try.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Feel free to reach out to me through any of my social links, or if you see me in person at case or my hometown of Buffalo say hello!
