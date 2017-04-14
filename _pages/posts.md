@@ -1,6 +1,7 @@
 ---
 title: My Blog
 permalink: /posts/
+layout: archive
 ---
 
 {% for post in paginator.posts %}
