@@ -1,5 +1,0 @@
----
-title:  "Test Post"
-date:   2017-04-13 12:03:42 -0400
----
-Test post.
