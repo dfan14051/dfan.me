@@ -1,6 +1,7 @@
 ---
 title: About Me
 permalink: /about/
+author: none
 ---
 
 Hi. I'm David Fan, a computer science - cognitive science double major at Case Western Reserve University focusing on artificial intelligence and software development. I've been glued to my computer for about as long as I can remember.
