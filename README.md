@@ -8,3 +8,8 @@ This site serves as my personal website with my portfolio, resume, and blog.
 Continuous integration for the site is powered by a simple Sinatra app that responds to a GitHub post-merge webhook.
 
 Site powered by Jekyll. Theme is [minimal-mistakes](https://mmistakes.github.io/minimal-mistakes/).
+
+# Update
+Site is no longer live as I ran out of student Digital Ocean credit.
+## Todo
+Migrate site to GitHub pages
