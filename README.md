@@ -11,5 +11,7 @@ Site powered by Jekyll. Theme is [minimal-mistakes](https://mmistakes.github.io/
 
 # Update
 Site is no longer live as I ran out of student Digital Ocean credit.
+
+(8/15/18) I'm deprecating this codebase in favor of a simpler, GitHub Pages powered site for my research blog.
 ## Todo
 Migrate site to GitHub pages
